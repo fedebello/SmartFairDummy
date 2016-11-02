@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartFairDummy</string>
+    <string name="title_beacon_detail">Beacon Detail</string>
+    <string name="kontakt_io_api_key">cQYMOSFPqzYscSKSbFyztLAoJSHfjjeD</string>
+    <string name="scan_beacons_button">Buscar beacons!</string>
+    <string name="beacons_list_title">Beacons encontrados</string>
+    <string name="passCel">3086fio</string>
+</resources>
